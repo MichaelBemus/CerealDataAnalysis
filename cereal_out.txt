@@ -1,0 +1,52 @@
+Cereal Statistics Report
+
+I. List of Sample Statistics:
+
+1. Calories
+	Mean: 106.88311688311688
+	Standard Deviation: 19.484119056820845
+
+2. Protein
+	Mean: 2.5454545454545454
+	Standard Deviation: 1.0947897484455338
+
+3. Fat
+	Mean: 1.0129870129870129
+	Standard Deviation: 1.006472559480393
+
+4. Sodium
+	Mean: 159.67532467532467
+	Standard Deviation: 83.83229524009317
+
+5. Fiber
+	Mean: 2.1519480519480516
+	Standard Deviation: 2.383363964387222
+
+6. Carbohydrates
+	Mean: 14.597402597402597
+	Standard Deviation: 4.278956280325908
+
+7. Sugars
+	Mean: 6.922077922077922
+	Standard Deviation: 4.444885392419359
+
+8. Weight per Serving
+	Mean: 1.0296103896103896
+	Standard Deviation: 0.15047679973689215
+
+9. Cups per Serving
+	Mean: 0.821038961038961
+	Standard Deviation: 0.2327161384469139
+
+II. List of Max Values Cereals:
+
+1. Max Calories Cereal: Mueslix Crispy Blend
+
+2. Max Protein Cereal: Cheerios
+
+3. Max Fat Cereal: 100% Natural Bran
+
+4. Max Sodium Cereal: Product 19
+
+5. Max Fiber Cereal: All-Bran with Extra Fiber
+
